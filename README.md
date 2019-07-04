@@ -1,1 +1,1 @@
-# MovieCoin
+# MovieMarketCoin
